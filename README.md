@@ -23,7 +23,7 @@ Before you get started, ensure you have:
 - **Arduino Nano 33 BLE Sense**  
 - **Microphone sensor support enabled**  
 
-## 🛠️ Installation and Setup  
+## Installation and Setup  
 1. Clone this repository:  
    ```sh
    git clone https://github.com/codeshark304/Real-Time-Animal-sound-Detection-and-Classification-using-Arduino-Nano-33-BLE-Sense.git
